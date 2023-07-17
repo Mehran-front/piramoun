@@ -2,7 +2,7 @@ Store website
                                                                                                                                                               
 سایت فروشگاهی کاملا ریسپانیو                                                                                                                                                                                                                                                                                                      
 برای سایت:https://piramoun.ir/                                                                                                                                            
-داری پنج صفحه                                                                                                                                                             
+ پنج صفحه                                                                                                                                                             
   
 صفحه اصلی:https://mehran-front.github.io/piramoun/                                                                                                                               
 صفحه محصولات:https://mehran-front.github.io/piramoun/shop-page.html                                                                                                      
